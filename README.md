@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm @Banimostafa</h1>
 <h3 align="center">System Administrator | Microsoft®Certified Professional 8x | VMware Solutions Specialist | Lebenslänglich Lernbereiter 🐋☸☁</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=banimostafa&label=Profile%20views&color=0e75b6&style=flat" alt="banimostafa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banimostafa" alt="banimostafa" /></a> </p>
-
 - 🔭 I’m currently working on **Microsoft® Solutions Expert (MCSE, Exchange, Skype For Business, Lync Server, SCCM, RDS,...)**
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Ansible, Terraform,... 🐋☸☁**
